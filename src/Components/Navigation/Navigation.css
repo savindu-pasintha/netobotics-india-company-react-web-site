@@ -1,0 +1,26 @@
+
+.Navigation-container{
+    height: 100px;
+}
+
+.Navigation-container .Link-text{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 24px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color:white;
+  text-decoration:none
+}
+.Navigation-container h1{
+    padding-top: 40px;
+    text-align: center;
+}
+.Navigation-container .Link-text:hover{
+    text-decoration:underline;
+    color:blue;
+}
+
+
+  
